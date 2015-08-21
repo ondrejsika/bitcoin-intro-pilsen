@@ -1,0 +1,41 @@
+Bitcoin Intro Pilsen
+====================
+
+Ondrej Sika <ondrej@ondrejsika.com>
+
+
+Table of Content
+----------------
+
+- Co je Bitcoin
+- Jak Bitcoin funguje
+- Bitcoinove penezenky
+- Kde koupim Bitcoiny
+- Kde utratim Bitcoiny
+- Jak prijimat Bitcoiny
+
+
+Co je Bitcoin
+  - peer to peer mena
+  - decentralizovany, distribuovany
+
+Bitcoinove penezenky
+  - hardwarove - Trezor
+  - pc - bitcoin qt, electrum
+  - mobilni - mycelium, coinbase
+  - web - coinbase, blockchaininfo
+  - paper
+
+Kde koupim bitcoiny
+  - u me
+  - local bitcoins
+  - bitcoin ATMs
+
+Kde utratim sve bitcoiny
+  - online - amazon, ...
+  - offline - coinmap
+
+Jak prijimat bitcoiny
+  - online - bitpay, mbp
+  - offline - coin of sale, mbp
+
