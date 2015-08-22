@@ -18,6 +18,13 @@ Table of Content
 Co je Bitcoin
   - peer to peer mena
   - decentralizovany, distribuovany
+  - anonymni
+
+Jak Bitcoin funguje
+  - asym. crypto
+  - blockchain
+  - mining
+
 
 Bitcoinove penezenky
   - hardwarove - Trezor
