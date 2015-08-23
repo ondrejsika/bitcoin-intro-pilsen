@@ -33,7 +33,7 @@ Bitcoinove penezenky
   - web - coinbase, blockchaininfo
   - paper
 
-Kde koupim bitcoiny
+Kde sezenu bitcoiny
   - u me
   - local bitcoins
   - bitcoin ATMs
